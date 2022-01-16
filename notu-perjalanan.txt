@@ -1,5 +1,5 @@
 NOTU PERJALANAN MENUJU PROGRAMMER
 - Saya ingin konsisten melihat 1-2 video WPU untuk belajar premrogramman dalam satu hari
-- Membuat website pengenalan
+- Memperbaiki Website pengenalan
 - setelah belajar git&github saya ingin cepat-cepat belajar Javascript
 - Membuat aplikasi dan game
