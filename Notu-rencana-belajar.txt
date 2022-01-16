@@ -6,4 +6,4 @@ RENCANA BELAJAR CODING
 - PHP laravel
 - Python
 - C#
-- Membuat server
+- Membuat Website Public
