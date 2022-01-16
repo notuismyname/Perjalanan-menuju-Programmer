@@ -1,0 +1,8 @@
+RENCANA BELAJAR CODING
+- Javascript
+  *web developer
+  *game developer
+- React JS
+- PHP laravel
+- Python
+- C#
