@@ -1,0 +1,6 @@
+RENCANA BELAJAR CODING
+- Javascript
+- React JS
+- PHP laravel
+- Python
+- C#
