@@ -1,0 +1,5 @@
+Halo kak,salam kenal saya Notu dari sidoarjo
+
+resolusi saya :
+- Membuat website menggunakan Javascript
+- saya ingin membuat game  menggunakan javascript dan C#
