@@ -1,11 +1,11 @@
 RENCANA BELAJAR CODING
 - Javascript
-  *web developer
-  *game developer
-- React JS
+  *Web developer
+  *React JS
 - PHP laravel
 - Python
 - C#
 - Membuat server
 - C++
 - Membuat Website Public
+- Membuat aplikasi
