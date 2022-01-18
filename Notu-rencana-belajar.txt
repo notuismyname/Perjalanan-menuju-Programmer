@@ -1,6 +1,7 @@
 RENCANA BELAJAR CODING
 - Javascript
   *Web developer
+  *game developer
   *React JS
 - PHP laravel
 - Python
